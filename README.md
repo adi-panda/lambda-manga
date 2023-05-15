@@ -33,7 +33,9 @@
 
 - Now ssh back on to your lambda labs server and run the following command:
 	```bash
-	cd esrgan; pip install -r requirements.txt; python upscale.py models/4x_eula_digimanga_bw_v2_nc1_307k.pth
+	cd esrgan; 
+	pip install -r requirements.txt; 
+	python upscale.py models/4x_eula_digimanga_bw_v2_nc1_307k.pth
 	```
 
 - Finally, going back onto your local computer, copy the files back to your local
