@@ -1,4 +1,4 @@
-#Lambda Manga
+# Lambda Manga
 ##### This is a tutorial for upscaling manga using lambda labs GPUs.
 
 - First create an account on lambda labs webpage
