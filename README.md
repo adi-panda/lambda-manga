@@ -18,7 +18,7 @@
  
 - Install gdown to clone the esrgan repository
 	```bash
-	pip install gdown
+	pip install gdown;
 	gdown --folder "https://drive.google.com/drive/folders/1tzDPDQhfW6MOsYs0h0kxJaE6lR77anSr?usp=sharing"
 	```
 
