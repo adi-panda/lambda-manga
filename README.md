@@ -16,13 +16,9 @@
 	ssh -i <YOUR_KEY.pem> ubuntu@<YOUR_IP>
 	```
  
-- Install gdown
+- Install gdown to clone the esrgan repository
 	```bash
 	pip install gdown
-	```
-
-- Clone the esrgan repository with the weights using this command 
-	```bash
 	gdown --folder "https://drive.google.com/drive/folders/1tzDPDQhfW6MOsYs0h0kxJaE6lR77anSr?usp=sharing"
 	```
 
